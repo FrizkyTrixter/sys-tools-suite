@@ -1,0 +1,47 @@
+commit 61fe786cfcb830af2f749fcfba1dcf2af2a9a0b2
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Mon Apr 26 18:34:35 2021 -0400
+
+    Added comments as well as finished HTML section of code
+
+commit df4f35161effcd62efcd4807e476672f02f5f505
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Mon Apr 26 08:42:00 2021 -0400
+
+    Finished this part of the assignment
+
+commit 111794d95a162ee02bc075ec3d1b4fe20aa2102f
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Sun Apr 25 19:17:44 2021 -0400
+
+    Finished this part of the assignment
+
+commit abf596a6a62f1dc270fdd6025639f36bc45601d9
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Sun Apr 25 19:17:02 2021 -0400
+
+    Finished this part of the assignment
+
+commit bf4f992e8643c0b9f5eb7caf5ff0416c08878e0a
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Mon Apr 19 10:24:13 2021 -0400
+
+    Made it so output is added to second file
+
+commit 42583d610b89f92a7f67a62cf88607abe6ff0896
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Mon Apr 19 10:09:51 2021 -0400
+
+    Edited awk command as well as sed command to insert Lab between fields
+
+commit 8158d1b9fa84eadbfdb9a595de3b09a7447831e9
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Sun Apr 18 11:20:30 2021 -0400
+
+    Inserted find command
+
+commit f54886f0aa0064acd94130dd3fdefaf64cf40093
+Author: Mateo Day <mnday0101@gmail.com>
+Date:   Sun Apr 18 10:39:05 2021 -0400
+
+    First commit

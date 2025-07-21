@@ -1,0 +1,12 @@
+First, I would use gcc -g -o labapp labapps.c so that the code will compile with additional information
+such as the source code and symbol table needed by the debugger
+Next, I would type gdb labapp.c to enter the debugger
+Then, I would used the list command to find at which line the generateAttendance function starts
+Finally, I would set a breakpoint at the line before using the break command so that the program will stop running once it reaches that line
+
+First, I would use the step command to enter the generateAttendance function
+Then, I would once again use list to see where the first node is being accessed
+I would set a break point after that line and run the program
+Next, I would use the continue command to continue running the program
+Finally, I would execute the command print &temp to see the value stored
+The address stored was 0x7fffffffd568
